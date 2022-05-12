@@ -80,7 +80,7 @@ export default function GetStarted() {
                 onClick={() => {
                   history.push(ENABLE_KYC_ONBOARDING ? '/join' : '/onboard');
                 }}>
-                Contribute to Build Schools
+                Contribute to building a better future
               </button>
             </div>
           </div>
