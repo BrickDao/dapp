@@ -4,7 +4,7 @@ import GitHubSVG from '../../assets/svg/GitHubSVG';
 
 // @todo Add missing URLs when available
 enum SocialMediaLinks {
-  DISCORD = 'https://discord.gg/tEfP68xnTd',
+  DISCORD = 'https://discord.gg/yPTaD4t3',
   /*
    * query params search sepcifically for:
    * openlawteam/tribute-ui
@@ -12,7 +12,7 @@ enum SocialMediaLinks {
    * openlawteam/tribute-contracts-cli
    * openlawteam/tribute-subgraph
    */
-  GITHUB = 'https://github.com/search?q=org%3Aopenlawteam+tribute-ui+OR+tribute-contracts+OR+tribute-subgraph+in%3Aname&type=repositories',
+  GITHUB = 'https://github.com/BrickDao',
   // MEDIUM = '#',
 }
 
