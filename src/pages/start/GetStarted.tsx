@@ -67,7 +67,7 @@ export default function GetStarted() {
 
           <div className="landing">
             <div className="landing__subtitle">
-              A next generation DAO framework
+            brickDAO aims to unlock the current donor ecosystem into a decentralized autonomous organization for donations A transparent charity for the people to the people.
             </div>
 
             <div className="landing__img">
@@ -80,7 +80,7 @@ export default function GetStarted() {
                 onClick={() => {
                   history.push(ENABLE_KYC_ONBOARDING ? '/join' : '/onboard');
                 }}>
-                Join
+                Contribute to Build Schools
               </button>
             </div>
           </div>
